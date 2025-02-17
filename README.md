@@ -4,4 +4,4 @@ Currently Working on Harvard CS50-P
 
 
 ### 📊 **GitHub Stats**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Parsivan&theme=rose-pine)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=parsivan&theme=rose-pine&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
